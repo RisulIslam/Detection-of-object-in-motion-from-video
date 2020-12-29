@@ -11,4 +11,8 @@ Requirement; Python3+
 
 Packages:
   1. Opencv
+  
+Run: 
+  1. open "object detect.py".
+  2. Hit F5.
 
